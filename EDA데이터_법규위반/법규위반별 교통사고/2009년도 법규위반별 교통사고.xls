@@ -1,0 +1,111 @@
+
+
+
+
+
+
+
+
+	
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+table {width:100%;border-top:1px solid #737678;}
+td {border:1px solid #cccccc;text-align:center;vertical-align:middle;}
+</style>
+
+<h2>2009년도 법규위반별 교통사고</h2>
+<table>
+	<thead>
+		<tr bgcolor="#ebf2f7">
+			<th>법규위반</th>
+			<th>사고건수(건)</th> 
+			<th>사망자수(명)</th>
+			<th>부상자수(명)</th>
+		</tr>
+	</thead>
+	<tbody>
+		
+		<tr>
+			<td>계</td>
+			<td>231,990</td>
+			<td>5,838</td>
+			<td>361,875</td>
+		</tr>
+		
+		<tr>
+			<td>중앙선침범</td>
+			<td>14,327</td>
+			<td>548</td>
+			<td>26,153</td>
+		</tr>
+		
+		<tr>
+			<td>신호위반</td>
+			<td>27,582</td>
+			<td>427</td>
+			<td>46,281</td>
+		</tr>
+		
+		<tr>
+			<td>안전거리미확보</td>
+			<td>24,554</td>
+			<td>128</td>
+			<td>45,132</td>
+		</tr>
+		
+		<tr>
+			<td>과속</td>
+			<td>422</td>
+			<td>163</td>
+			<td>628</td>
+		</tr>
+		
+		<tr>
+			<td>안전운전불이행</td>
+			<td>126,340</td>
+			<td>4,098</td>
+			<td>185,784</td>
+		</tr>
+		
+		<tr>
+			<td>교차로운행방법위반</td>
+			<td>17,145</td>
+			<td>124</td>
+			<td>28,127</td>
+		</tr>
+		
+		<tr>
+			<td>보행자보호의무위반</td>
+			<td>6,343</td>
+			<td>166</td>
+			<td>6,669</td>
+		</tr>
+		
+		<tr>
+			<td>기타</td>
+			<td>15,277</td>
+			<td>184</td>
+			<td>23,101</td>
+		</tr>
+		
+	</tbody>
+</table>
+
+</body>
+</html>

@@ -1,0 +1,111 @@
+
+
+
+
+
+
+
+
+	
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+table {width:100%;border-top:1px solid #737678;}
+td {border:1px solid #cccccc;text-align:center;vertical-align:middle;}
+</style>
+
+<h2>2020년도 법규위반별 교통사고</h2>
+<table>
+	<thead>
+		<tr bgcolor="#ebf2f7">
+			<th>법규위반</th>
+			<th>사고건수(건)</th> 
+			<th>사망자수(명)</th>
+			<th>부상자수(명)</th>
+		</tr>
+	</thead>
+	<tbody>
+		
+		<tr>
+			<td>계</td>
+			<td>209,654</td>
+			<td>3,081</td>
+			<td>306,194</td>
+		</tr>
+		
+		<tr>
+			<td>중앙선침범</td>
+			<td>8,364</td>
+			<td>196</td>
+			<td>13,731</td>
+		</tr>
+		
+		<tr>
+			<td>신호위반</td>
+			<td>24,512</td>
+			<td>267</td>
+			<td>38,648</td>
+		</tr>
+		
+		<tr>
+			<td>안전거리미확보</td>
+			<td>21,469</td>
+			<td>57</td>
+			<td>34,715</td>
+		</tr>
+		
+		<tr>
+			<td>과속</td>
+			<td>1,241</td>
+			<td>277</td>
+			<td>2,230</td>
+		</tr>
+		
+		<tr>
+			<td>안전운전불이행</td>
+			<td>116,272</td>
+			<td>2,047</td>
+			<td>162,663</td>
+		</tr>
+		
+		<tr>
+			<td>교차로운행방법위반</td>
+			<td>14,079</td>
+			<td>30</td>
+			<td>21,949</td>
+		</tr>
+		
+		<tr>
+			<td>보행자보호의무위반</td>
+			<td>6,166</td>
+			<td>103</td>
+			<td>6,436</td>
+		</tr>
+		
+		<tr>
+			<td>기타</td>
+			<td>17,551</td>
+			<td>104</td>
+			<td>25,822</td>
+		</tr>
+		
+	</tbody>
+</table>
+
+</body>
+</html>

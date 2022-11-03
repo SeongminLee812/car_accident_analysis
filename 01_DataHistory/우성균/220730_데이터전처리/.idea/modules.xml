@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../데이터과학_강의(현)/.idea/데이터과학_강의(현).iml" filepath="$PROJECT_DIR$/../데이터과학_강의(현)/.idea/데이터과학_강의(현).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../데이터과학_독학/.idea/데이터과학_독학.iml" filepath="$PROJECT_DIR$/../데이터과학_독학/.idea/데이터과학_독학.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../수학및통계_아카이브/.idea/수학및통계_아카이브.iml" filepath="$PROJECT_DIR$/../수학및통계_아카이브/.idea/수학및통계_아카이브.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../컴퓨터과학_아카이브/.idea/컴퓨터과학_아카이브.iml" filepath="$PROJECT_DIR$/../컴퓨터과학_아카이브/.idea/컴퓨터과학_아카이브.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/프로젝트2.iml" filepath="$PROJECT_DIR$/.idea/프로젝트2.iml" />
+    </modules>
+  </component>
+</project>
